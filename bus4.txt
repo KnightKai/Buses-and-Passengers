@@ -1,0 +1,125 @@
+Bus4
+clock: 0 stop_num: 12 status: BOARDING
+clock: 0 stop_num: 12 status: BOARDING
+clock: 2 stop_num: 12 status: LEFT take_time: 2
+clock: 302 stop_num: 13 status: BOARDING
+clock: 374 stop_num: 13 status: LEFT take_time: 72
+clock: 674 stop_num: 14 status: BOARDING
+clock: 764 stop_num: 14 status: LEFT take_time: 90
+clock: 1064 stop_num: 0 status: BOARDING
+clock: 1220 stop_num: 0 status: LEFT take_time: 156
+clock: 1520 stop_num: 1 status: BOARDING
+clock: 1746 stop_num: 1 status: LEFT take_time: 226
+clock: 2046 stop_num: 2 status: BOARDING
+clock: 2300 stop_num: 2 status: LEFT take_time: 254
+clock: 2600 stop_num: 3 status: BOARDING
+clock: 2866 stop_num: 3 status: LEFT take_time: 266
+clock: 3166 stop_num: 4 status: BOARDING
+clock: 3422 stop_num: 4 status: LEFT take_time: 256
+clock: 3722 stop_num: 5 status: BOARDING
+clock: 3994 stop_num: 5 status: LEFT take_time: 272
+clock: 4294 stop_num: 6 status: BOARDING
+clock: 4540 stop_num: 6 status: LEFT take_time: 246
+clock: 4840 stop_num: 7 status: BOARDING
+clock: 5096 stop_num: 7 status: LEFT take_time: 256
+clock: 5396 stop_num: 8 status: BOARDING
+clock: 5598 stop_num: 8 status: LEFT take_time: 202
+clock: 5898 stop_num: 9 status: BOARDING
+clock: 6090 stop_num: 9 status: LEFT take_time: 192
+clock: 6390 stop_num: 10 status: BOARDING
+clock: 6612 stop_num: 10 status: LEFT take_time: 222
+clock: 6912 stop_num: 11 status: BOARDING
+clock: 7120 stop_num: 11 status: LEFT take_time: 208
+clock: 7420 stop_num: 12 status: BOARDING
+clock: 7596 stop_num: 12 status: LEFT take_time: 176
+clock: 7896 stop_num: 13 status: BOARDING
+clock: 8036 stop_num: 13 status: LEFT take_time: 140
+clock: 8336 stop_num: 14 status: BOARDING
+clock: 8472 stop_num: 14 status: LEFT take_time: 136
+clock: 8772 stop_num: 0 status: BOARDING
+clock: 8854 stop_num: 0 status: LEFT take_time: 82
+clock: 9154 stop_num: 1 status: BOARDING
+clock: 9198 stop_num: 1 status: LEFT take_time: 44
+clock: 9498 stop_num: 2 status: BOARDING
+clock: 9536 stop_num: 2 status: LEFT take_time: 38
+clock: 9836 stop_num: 3 status: BOARDING
+clock: 9946 stop_num: 3 status: LEFT take_time: 110
+clock: 10246 stop_num: 4 status: BOARDING
+clock: 10376 stop_num: 4 status: LEFT take_time: 130
+clock: 10676 stop_num: 5 status: BOARDING
+clock: 10794 stop_num: 5 status: LEFT take_time: 118
+clock: 11094 stop_num: 6 status: BOARDING
+clock: 11178 stop_num: 6 status: LEFT take_time: 84
+clock: 11478 stop_num: 7 status: BOARDING
+clock: 11572 stop_num: 7 status: LEFT take_time: 94
+clock: 11872 stop_num: 8 status: BOARDING
+clock: 11942 stop_num: 8 status: LEFT take_time: 70
+clock: 12242 stop_num: 9 status: BOARDING
+clock: 12296 stop_num: 9 status: LEFT take_time: 54
+clock: 12596 stop_num: 10 status: BOARDING
+clock: 12608 stop_num: 10 status: LEFT take_time: 12
+clock: 12908 stop_num: 11 status: BOARDING
+clock: 13012 stop_num: 11 status: LEFT take_time: 104
+clock: 13312 stop_num: 12 status: BOARDING
+clock: 13430 stop_num: 12 status: LEFT take_time: 118
+clock: 13730 stop_num: 13 status: BOARDING
+clock: 13862 stop_num: 13 status: LEFT take_time: 132
+clock: 14162 stop_num: 14 status: BOARDING
+clock: 14264 stop_num: 14 status: LEFT take_time: 102
+clock: 14564 stop_num: 0 status: BOARDING
+clock: 14676 stop_num: 0 status: LEFT take_time: 112
+clock: 14976 stop_num: 1 status: BOARDING
+clock: 15078 stop_num: 1 status: LEFT take_time: 102
+clock: 15378 stop_num: 2 status: BOARDING
+clock: 15442 stop_num: 2 status: LEFT take_time: 64
+clock: 15742 stop_num: 3 status: BOARDING
+clock: 15794 stop_num: 3 status: LEFT take_time: 52
+clock: 16094 stop_num: 4 status: BOARDING
+clock: 16122 stop_num: 4 status: LEFT take_time: 28
+clock: 16422 stop_num: 5 status: BOARDING
+clock: 16452 stop_num: 5 status: LEFT take_time: 30
+clock: 16752 stop_num: 6 status: BOARDING
+clock: 16940 stop_num: 6 status: LEFT take_time: 188
+clock: 17240 stop_num: 7 status: BOARDING
+clock: 17436 stop_num: 7 status: LEFT take_time: 196
+clock: 17736 stop_num: 8 status: BOARDING
+clock: 17938 stop_num: 8 status: LEFT take_time: 202
+clock: 18238 stop_num: 9 status: BOARDING
+clock: 18440 stop_num: 9 status: LEFT take_time: 202
+clock: 18740 stop_num: 10 status: BOARDING
+clock: 18974 stop_num: 10 status: LEFT take_time: 234
+clock: 19274 stop_num: 11 status: BOARDING
+clock: 19502 stop_num: 11 status: LEFT take_time: 228
+clock: 19802 stop_num: 12 status: BOARDING
+clock: 20024 stop_num: 12 status: LEFT take_time: 222
+clock: 20324 stop_num: 13 status: BOARDING
+clock: 20542 stop_num: 13 status: LEFT take_time: 218
+clock: 20842 stop_num: 14 status: BOARDING
+clock: 21080 stop_num: 14 status: LEFT take_time: 238
+clock: 21380 stop_num: 0 status: BOARDING
+clock: 21596 stop_num: 0 status: LEFT take_time: 216
+clock: 21896 stop_num: 1 status: BOARDING
+clock: 22118 stop_num: 1 status: LEFT take_time: 222
+clock: 22418 stop_num: 2 status: BOARDING
+clock: 22660 stop_num: 2 status: LEFT take_time: 242
+clock: 22960 stop_num: 3 status: BOARDING
+clock: 23204 stop_num: 3 status: LEFT take_time: 244
+clock: 23504 stop_num: 4 status: BOARDING
+clock: 23782 stop_num: 4 status: LEFT take_time: 278
+clock: 24082 stop_num: 5 status: BOARDING
+clock: 24344 stop_num: 5 status: LEFT take_time: 262
+clock: 24644 stop_num: 6 status: BOARDING
+clock: 24922 stop_num: 6 status: LEFT take_time: 278
+clock: 25222 stop_num: 7 status: BOARDING
+clock: 25488 stop_num: 7 status: LEFT take_time: 266
+clock: 25788 stop_num: 8 status: BOARDING
+clock: 26062 stop_num: 8 status: LEFT take_time: 274
+clock: 26362 stop_num: 9 status: BOARDING
+clock: 26622 stop_num: 9 status: LEFT take_time: 260
+clock: 26922 stop_num: 10 status: BOARDING
+clock: 27178 stop_num: 10 status: LEFT take_time: 256
+clock: 27478 stop_num: 11 status: BOARDING
+clock: 27760 stop_num: 11 status: LEFT take_time: 282
+clock: 28060 stop_num: 12 status: BOARDING
+clock: 28360 stop_num: 12 status: LEFT take_time: 300
+clock: 28660 stop_num: 13 status: BOARDING

@@ -1,0 +1,5 @@
+stop_amount=15
+bus_amount=5
+driving_time=5
+boarding_time=2
+mean_arrival_rate=5
